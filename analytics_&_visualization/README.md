@@ -1,7 +1,8 @@
-Project 1 submission
-Project title: Tests in the Time of Pandemic
+**Data Analytics and Visualization project**
 
-Problem Statement:
+**Project title:** Tests in the Time of Pandemic
+
+**Problem Statement:**
 The transition between 2019 and 2020 can be seen as a turning point, where many aspects of life suddenly took unprecedented turns. Education is one of the fields that had experienced most disruptions during this turning point, with most schools closed and shifted to online learning.
 
 Looking into SAT and ACT data from these two years -2019 and 2020-, this project investigates how the onset of the pandemic had impacted ACT and SAT tests scores and participation rates, and how differently these impacts were seen in different geographical locations in the US.
@@ -9,7 +10,7 @@ Looking into SAT and ACT data from these two years -2019 and 2020-, this project
 Stakeholders:
 The state governments and policy makers, examination boards' leaderships, and universities' admission officers.
 
-This project aims to answer five questions:
+**This project aims to answer five questions:**<br>
 Q1. Are there any drops in test scores when Covid-19 striked in 2020 compared to the year before?
 
 Q2. It is common knowledge that Covid-19 disruptions had different impacts on different groups of students.
@@ -28,18 +29,18 @@ Q5. Which of these geographical groups -the east coast, west coast, or interior 
 
 Q6. Are there any correlations between SAT and ACT scores and participation rates?
 
-Organization:
-The jupyter notebook for my codes is organised in eight sections as follow:
-Section 1. Import and prepare data
-Section 2. Answers to Q1
-Section 3. Answers to Q2
-Section 4. Answers to Q3
-Section 5. Answers to Q4
-Section 6. Answer to Q5
-Section 7. Answer to Q6
+**Organization:**<br>
+The jupyter notebook for my codes is organised in eight sections as follow:<br>
+Section 1. Import and prepare data<br>
+Section 2. Answers to Q1<br>
+Section 3. Answers to Q2<br>
+Section 4. Answers to Q3<br>
+Section 5. Answers to Q4<br>
+Section 6. Answer to Q5<br>
+Section 7. Answer to Q6<br>
 Section 8. Conclusion
 
-Conclusion:
+**Conclusion:**<br>
 Most significant findings emerging from this project are:
 1. Average scores for both ACT and SAT have dropped in 2020 compared to 2019. However, the drop is not significant.
     Although the average scores have dropped, ACT highest score has risen from 25.5 to 26. On the other hand, SAT highest score has dropped from close to 1300 in 2019 to close to 1250 in 2020.
@@ -65,16 +66,16 @@ Most significant findings emerging from this project are:
 
 6. . There are high correlations between SAT score and ACT participation and vice versa that increased when Covid-19 striked. However, the correlations between ACT and SAT scores are low. These correlations need further investigation that include other relevant data such as how badly covid had impacted each geographical location.
 
-Recommendation:
+**Recommendation:**
 1. Insights from this projects can be used to inform future decisions on test policies, that takes into account the  different geographical correlations, which are:
     - West Coast prefers SAT, scores moderately on both.
     - East Coast prefers SAT, scores high on ACT.
     - Inner states:
-      - two score groups:
-        (i) score high on SAT, low on ACT both 2019 and 2020
-        (ii) low on ACT, high on SAT both 2019 and 2020
+      - two score groups:<br>
+        (i) score high on SAT, low on ACT both 2019 and 2020<br>
+        (ii) low on ACT, high on SAT both 2019 and 2020<br>
       - Participation before covid: 20% on ACT, many did not take SAT.
-        Participation in 2020: either ACT or SAT.
+        Participation in 2020: either ACT or SAT.<br>
 Building upon this knowledge, further research can be done to investigates whether low participation in a certain test means that only those who score high submitted their results (East coast and inner state group (i) results above lead to this hypothesis).
 
 2. Based on this finding, further actions can be done to improve university admission systems by considering geographical statistics and test preferences.
